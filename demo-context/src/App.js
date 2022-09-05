@@ -10,7 +10,9 @@ function App() {
  
   return (
     <div>
+      <div>
       <Interests/>
+      </div>
     </div>
   );
 }
