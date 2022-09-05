@@ -1,0 +1,19 @@
+.main {
+  max-width: 600px;
+  width: 600px;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: antiquewhite;
+}
+@media screen and (min-width: 600px) {
+  .main {
+    background-color: olive;
+    height: 50vh;
+  }
+}
+@media screen and (max-width: 600px) {
+  .main {
+    background-color: rgb(128, 0, 94);
+    height: 50vh;
+  }
+}

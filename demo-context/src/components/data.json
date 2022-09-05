@@ -1,0 +1,87 @@
+[
+  {
+    "title": "what are your interests ?",
+    "imgs": "/images/1.png",
+    "option": [
+      "Reading",
+      "Writing",
+      "Sports",
+      "Hiking",
+      "Cooking",
+      "Singing",
+      "Travelling",
+      "Garadening",
+      "socializing",
+      "Hiking",
+      "Movies",
+      "Music",
+      "pets",
+      "Meditation",
+      "Running"
+    ],
+    "col": "1fr 1fr 1fr 1fr 1fr"
+  },
+  {
+    "title": "What kind of relationship are you looking for?",
+    "imgs": "/images/2.png",
+    "option": ["Friendship", "Dating", "Marriage"],
+    "col": "1fr 1fr 1fr"
+  },
+  {
+    "title": "What's your relationship status?",
+    "imgs": "/images/3.png",
+    "option": ["Singel", "Divorced", "Widow"],
+    "col": "1fr 1fr 1fr"
+  },
+  {
+    "title": "Do you have kids?",
+    "imgs": "/images/4.png",
+    "option": ["Yes", "no"],
+    "col": "1fr 1fr"
+  },
+  {
+    "title": "Do you want children?",
+    "imgs": "/images/5.png",
+    "option": ["Yes", "no"],
+    "col": "1fr 1fr"
+  },
+  {
+    "title": "How tall are you?",
+    "imgs": "/images/6.png",
+    "option": ["Feet", "Inch"],
+    "col": "1fr 1fr 1fr"
+  },
+  {
+    "title": "What's your education?",
+    "imgs": "/images/7.png",
+    "option": ["High School", "Bachelor's", "Master's", "Phd"],
+    "col": "1fr 1fr 1fr 1fr"
+  },
+  {
+    "title": "What ethnicity describes you?",
+    "imgs": "/images/8.png",
+    "option": [
+      "Asian",
+      "Black",
+      "Hispanic",
+      "Indian",
+      "White",
+      "North American",
+      "Middel Eastern",
+      "Other"
+    ],
+    "col": "1fr 1fr 1fr 1fr"
+  },
+  {
+    "title": "Do you Drink ?",
+    "imgs": "/images/9.png",
+    "option": ["Yes", "No", "Occasionally"],
+    "col": "1fr 1fr 1fr"
+  },
+  {
+    "title": "Do you smoke ?",
+    "imgs": "/images/10.png",
+    "option": ["Yes", "No", "Occasionally"],
+    "col": "1fr 1fr 1fr"
+  }
+]
